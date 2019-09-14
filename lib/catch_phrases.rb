@@ -1,5 +1,5 @@
 def mario
-  $status = 'global_phrase'
+  $status = 'Thank You Mario! But Our Princess Is In Another Castle!'
     phrase = "It's-a me, Mario!"
   puts phrase
 end
@@ -13,7 +13,7 @@ def link
   phrase ="It's Dangerous To Go Alone! Take This."
   puts phrase
 end
-
+link
 
 def any_phrase(phrase)
   catch_phrase = "Do A Barrel Roll!"
